@@ -69,6 +69,3 @@
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/4b5ec2d6-c4b2-4947-babd-ad0a28eedf59)
 ### Xóa nhân viên
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/245173b9-dabd-4b0b-ba2c-2f0697c2d00b)
-
-
-
