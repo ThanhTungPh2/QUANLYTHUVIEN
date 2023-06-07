@@ -4,22 +4,33 @@
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/cd4db356-9a06-49b1-832a-ec17067c1798)
 
 ## ĐĂNG NHẬP
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/c9e380e2-8802-4fc4-b5e4-0be9a1255a43)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/bc35e5d7-a8a7-4845-9eba-ce443c1627d6)
+
 
 ### Đăng nhập thành công
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/4545494c-d625-402d-96a2-77e825b8f2a2)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/c4011f9f-5d62-41cc-906b-5ce152e86ce1)
+
 ### Đăng nhập thất bại
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/f176eb19-6082-4c29-92ad-0543acf98bb2)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/8b3c6b18-b6db-4a99-a19b-e5044f67c34b)
+## MENU
+### Đăng nhập với vai trò admin
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/cd69e21e-4126-475b-b0a3-e3ed478ce6b7)
+### Đăng nhập với vai trò nhân viên
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/d491dc4b-5f7b-4d88-935c-8b92e25b738a)
+
 ## QUẢN LÝ ĐỘC GIẢ
 
 ### Giao diện chính
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/7336c53d-8da1-4250-856f-d0ce428ae117)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/2d8c9623-0165-4d86-97d4-e2aafd098919)
+
 ### Tìm kiếm độc giả
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/cd10a01d-844e-48ad-91a4-3aea93a77f9f)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/7e5999e3-6763-4fc0-9291-9116bce32b4a)
 ### Thêm độc giả
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/0edbb098-0a97-44fb-885b-574e8254e681)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/42f2cdc4-9f02-41ab-9fe4-a58994cb21ca)
+
 ### Sửa độc giả
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/97fa6911-1d35-47d4-8ba7-7fb39dbbc997)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/7d9881a2-692a-4d67-9c76-da5bab318d66)
+
 
 ## QUẢN LÝ SÁCH
 
