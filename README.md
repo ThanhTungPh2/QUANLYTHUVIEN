@@ -1,5 +1,8 @@
 # PROJECT QUẢN LÝ THƯ VIỆN ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI
 
+## CƠ SỞ DỮ LIỆU
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/cd4db356-9a06-49b1-832a-ec17067c1798)
+
 ## ĐĂNG NHẬP
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/c9e380e2-8802-4fc4-b5e4-0be9a1255a43)
 
@@ -26,5 +29,34 @@
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/c8b4ebdd-e8bf-4866-8327-294393f8c022)
 ### THêm sách
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/edc8bf80-7337-44c7-8214-f9beda6f3ec8)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/0a37023e-b2b8-4e7b-bc90-5f1966973e8e)
+### Sửa sách
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/2c6c6b9e-180c-462b-b5dd-44ec074d14c7)
+### Xóa sách
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/185af7d1-0ed3-4669-b2c1-1cc632a01ee6)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/29fc3b6d-5c22-4bc8-aef6-d409cc0a7542)
+## QUẢN LÝ PHIẾU MƯỢN
+
+### Giao diện
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/349f3f86-9789-44ad-81b7-e3e18bd88bcf)
+
+### Thêm
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/48411740-6cad-4a61-bbd6-503eb5e2c2b5)
+### Sửa
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/d7e3ef6d-201d-47e7-81de-6d6c75f4cfda)
+
+## QUẢN LÝ NHÂN VIÊN
+
+### Giao diện
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/dafbaa83-06e4-4ef9-be9a-5b145f7de5d8)
+### Tìm kiếm nhân viên
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/a6dffa89-1103-42cc-8291-1132d330a7c1)
+### Thêm nhân viên
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/0b7036d0-c82f-4126-8293-73ef0afa929b)
+### Sửa thông tin nhân viên
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/4b5ec2d6-c4b2-4947-babd-ad0a28eedf59)
+### Xóa nhân viên
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/245173b9-dabd-4b0b-ba2c-2f0697c2d00b)
+
 
 
