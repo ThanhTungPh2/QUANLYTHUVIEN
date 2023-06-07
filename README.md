@@ -5,10 +5,10 @@
 
 ## ĐĂNG NHẬP
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/bc35e5d7-a8a7-4845-9eba-ce443c1627d6)
-
+Admin và Người dùng(Nhân viên thư viện) sẽ dùng chung một giao diện đăng nhập. Chương trình sẽ tự xác định quyền truy cập các chức năng trong trường trình tùy vàp tài khoản đăng nhập là gì
 
 ### Đăng nhập thành công
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/c4011f9f-5d62-41cc-906b-5ce152e86ce1)
+![Chương trình thông báo khi đăng nhập thành công](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/c4011f9f-5d62-41cc-906b-5ce152e86ce1)
 
 ### Đăng nhập thất bại
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/8b3c6b18-b6db-4a99-a19b-e5044f67c34b)
