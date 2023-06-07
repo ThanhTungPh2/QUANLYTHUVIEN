@@ -35,21 +35,22 @@
 ## QUẢN LÝ SÁCH
 
 ### Giao diện chính
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/711651a8-aa29-4c40-aacc-92d5bb51cf16)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/c04e3af7-26e4-4c9b-84ff-3e8905f2a966)
 ### Tìm kiếm sách
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/c8b4ebdd-e8bf-4866-8327-294393f8c022)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/72627f31-fa34-4e22-8911-9690e6fb5d99)
 ### THêm sách
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/edc8bf80-7337-44c7-8214-f9beda6f3ec8)
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/0a37023e-b2b8-4e7b-bc90-5f1966973e8e)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/60ca77cf-a8ca-4f22-ac6b-8915736954be)
 ### Sửa sách
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/2c6c6b9e-180c-462b-b5dd-44ec074d14c7)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/d3f4f155-e6cb-4e06-b01e-c4a04c5ac3e2)
+
 ### Xóa sách
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/185af7d1-0ed3-4669-b2c1-1cc632a01ee6)
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/29fc3b6d-5c22-4bc8-aef6-d409cc0a7542)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/2b657cf1-ad3d-410c-8192-662a69c637db)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/a44dae8e-29c2-45bf-bbb5-93ccf248dc1f)
+
 ## QUẢN LÝ PHIẾU MƯỢN
 
 ### Giao diện
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/349f3f86-9789-44ad-81b7-e3e18bd88bcf)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/ee309426-d569-4dd5-894a-62e76b3f33ed)
 
 ### Thêm
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/48411740-6cad-4a61-bbd6-503eb5e2c2b5)
