@@ -62,12 +62,18 @@
 ## QUẢN LÝ NHÂN VIÊN
 
 ### Giao diện
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/dafbaa83-06e4-4ef9-be9a-5b145f7de5d8)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/0e397e87-331e-47fa-ae76-aad9dfea853b)
+
 ### Tìm kiếm nhân viên
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/a6dffa89-1103-42cc-8291-1132d330a7c1)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/7f39223b-6b1c-49d5-bcf3-f2ad87ed4f82)
+
 ### Thêm nhân viên
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/0b7036d0-c82f-4126-8293-73ef0afa929b)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/8d521cb3-2007-4235-9402-e3d6783e9ed7)
+
 ### Sửa thông tin nhân viên
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/4b5ec2d6-c4b2-4947-babd-ad0a28eedf59)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/d19f02a5-3343-460f-ad5a-5c589114f93f)
+
 ### Xóa nhân viên
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/245173b9-dabd-4b0b-ba2c-2f0697c2d00b)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/8e2a894b-8769-4672-bb8d-285d8d8298e2)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/0029f7a9-376b-44c9-8b7f-6ab41da7a477)
+
