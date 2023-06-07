@@ -37,14 +37,18 @@ Chương trình thông báo khi đăng nhập thất bại
 ## QUẢN LÝ ĐỘC GIẢ
 
 ### Giao diện chính
+Ở quản lý độc giả sẽ chỉ có chức năng là thêm tìm kiếm và xóa độc giả
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/2d8c9623-0165-4d86-97d4-e2aafd098919)
 
 ### Tìm kiếm độc giả
+Người dùng nhập tên hoặc mã độc giả vào ô tìm kiếm rồi click  `Tìm kiếm` hệ thống sẽ hiển thị kết quả tìm kiếm ở bảng dưới
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/7e5999e3-6763-4fc0-9291-9116bce32b4a)
 ### Thêm độc giả
+Trước khi thêm độc giả, người dùng nên click nút `Reset` rồi nhập đầy đủ các trường. Nếu không sẽ không thể thêm. Tại đây chúng tôi có chức năng **Validate**
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/42f2cdc4-9f02-41ab-9fe4-a58994cb21ca)
 
 ### Sửa độc giả
+Người dùng click một dòng muốn sửa trên bảng hiển thị. Dữ liệu sẽ hiển thị lên TextField rồi người dùng sửa trên đó. Sau đó click `Sửa` 
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/7d9881a2-692a-4d67-9c76-da5bab318d66)
 
 
@@ -54,7 +58,7 @@ Chương trình thông báo khi đăng nhập thất bại
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/c04e3af7-26e4-4c9b-84ff-3e8905f2a966)
 ### Tìm kiếm sách
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/72627f31-fa34-4e22-8911-9690e6fb5d99)
-### THêm sách
+### Thêm sách
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/60ca77cf-a8ca-4f22-ac6b-8915736954be)
 ### Sửa sách
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/d3f4f155-e6cb-4e06-b01e-c4a04c5ac3e2)
