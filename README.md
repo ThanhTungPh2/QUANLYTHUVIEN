@@ -4,18 +4,34 @@
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/cd4db356-9a06-49b1-832a-ec17067c1798)
 
 ## ĐĂNG NHẬP
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/bc35e5d7-a8a7-4845-9eba-ce443c1627d6)
 Admin và Người dùng(Nhân viên thư viện) sẽ dùng chung một giao diện đăng nhập. Chương trình sẽ tự xác định quyền truy cập các chức năng trong trường trình tùy vàp tài khoản đăng nhập là gì
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/bc35e5d7-a8a7-4845-9eba-ce443c1627d6)
+
 
 ### Đăng nhập thành công
-![Chương trình thông báo khi đăng nhập thành công](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/c4011f9f-5d62-41cc-906b-5ce152e86ce1)
+
+Chương trình thông báo khi đăng nhập thành công
+
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/c4011f9f-5d62-41cc-906b-5ce152e86ce1)
 
 ### Đăng nhập thất bại
+
+Chương trình thông báo khi đăng nhập thất bại
+
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/8b3c6b18-b6db-4a99-a19b-e5044f67c34b)
+
 ## MENU
+
 ### Đăng nhập với vai trò admin
+
+Đăng nhập với vai trò Admin sẽ được mở khóa chức năng quản lý nhân viên
+
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/cd69e21e-4126-475b-b0a3-e3ed478ce6b7)
+
 ### Đăng nhập với vai trò nhân viên
+
+Đăng nhập với vai trò nhân viên sẽ bị khóa chức năng quản lý nhân viên
+
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/d491dc4b-5f7b-4d88-935c-8b92e25b738a)
 
 ## QUẢN LÝ ĐỘC GIẢ
