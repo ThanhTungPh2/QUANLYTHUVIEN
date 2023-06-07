@@ -53,9 +53,11 @@
 ![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/ee309426-d569-4dd5-894a-62e76b3f33ed)
 
 ### Thêm
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/48411740-6cad-4a61-bbd6-503eb5e2c2b5)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/ae50cbeb-0ef6-4e68-b642-0be8fd023d4e)
+
 ### Sửa
-![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/d7e3ef6d-201d-47e7-81de-6d6c75f4cfda)
+![image](https://github.com/ThanhTungPh2/QUANLYTHUVIEN/assets/78742865/053a09c6-f025-40e0-8c3f-be34617dd6b4)
+
 
 ## QUẢN LÝ NHÂN VIÊN
 
